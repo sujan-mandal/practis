@@ -1,0 +1,16 @@
+.day{
+    /* background-color:chocolate; */
+    text-align: right;
+    border: 10px solid;
+    border-color: black;
+    padding: 90px;
+    background-image: url(image/pictur.webp);
+    background-repeat:no-repeat;
+    /* background-size: 300px 100px; */
+    /* width: 100%; */
+    background-size: cover;
+    width: 100px;
+    margin-left: auto;
+
+    /* border-left: 300px; */
+}
