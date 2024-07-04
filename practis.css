@@ -1,16 +1,24 @@
-.day{
-    /* background-color:chocolate; */
-    text-align: right;
-    border: 10px solid;
-    border-color: black;
-    padding: 90px;
-    background-image: url(image/pictur.webp);
-    background-repeat:no-repeat;
-    /* background-size: 300px 100px; */
-    /* width: 100%; */
-    background-size: cover;
-    width: 100px;
-    margin-left: auto;
-
-    /* border-left: 300px; */
+*{
+    margin: 0;
+    padding: 0;
 }
+h1 {
+    color: red;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    font-size: 50px;
+    text-align: center;
+    }
+    .day{
+        background-color: rgb(41, 14, 4);
+        height: 200px;
+        padding: 200px;
+        /* width: 10px; */
+        margin-top: 30px;
+        margin-bottom: 50px;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
