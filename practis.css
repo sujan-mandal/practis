@@ -16,6 +16,7 @@ h1 {
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
+        clip-path: polygon(0 30%, 65% 28%, 60% 0%, 100% 49%, 60% 100%, 60% 71%, 1% 71%);
         /* background-color: rgb(41, 14, 4); */
         height: 200px;
         padding: 200px;
